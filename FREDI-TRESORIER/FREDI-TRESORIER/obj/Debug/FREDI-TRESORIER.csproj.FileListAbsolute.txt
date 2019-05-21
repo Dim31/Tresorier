@@ -1,0 +1,17 @@
+C:\Users\Utilisateur\source\repos\FREDI-TRESORIER\FREDI-TRESORIER\bin\Debug\FREDI-TRESORIER.exe.config
+C:\Users\Utilisateur\source\repos\FREDI-TRESORIER\FREDI-TRESORIER\bin\Debug\FREDI-TRESORIER.exe
+C:\Users\Utilisateur\source\repos\FREDI-TRESORIER\FREDI-TRESORIER\bin\Debug\FREDI-TRESORIER.pdb
+C:\Users\Utilisateur\source\repos\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI-TRESORIER.csprojAssemblyReference.cache
+C:\Users\Utilisateur\source\repos\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI_TRESORIER.Form_accueil.resources
+C:\Users\Utilisateur\source\repos\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI_TRESORIER.Properties.Resources.resources
+C:\Users\Utilisateur\source\repos\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI-TRESORIER.csproj.GenerateResource.cache
+C:\Users\Utilisateur\source\repos\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI-TRESORIER.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\source\repos\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI-TRESORIER.exe
+C:\Users\Utilisateur\source\repos\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI-TRESORIER.pdb
+C:\Users\Utilisateur\source\repos\FREDI-TRESORIER\FREDI-TRESORIER\bin\Debug\MySql.Data.dll
+C:\Users\Utilisateur\source\repos\FREDI-TRESORIER\FREDI-TRESORIER\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Utilisateur\source\repos\FREDI-TRESORIER\FREDI-TRESORIER\bin\Debug\MySql.Web.dll
+C:\Users\Utilisateur\source\repos\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI_TRESORIER.Form_log.resources
+C:\Users\Utilisateur\source\repos\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI_TRESORIER.Form_modif.resources
+C:\Users\Utilisateur\source\repos\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI_TRESORIER.Form_Valider.resources
+C:\Users\Utilisateur\source\repos\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI-TRESORIER.csproj.CopyComplete
