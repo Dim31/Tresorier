@@ -6,23 +6,23 @@ using System.Threading.Tasks;
 
 namespace FREDI_TRESORIER.Classe
 {
-    class lignes_frais
+   public class lignes_frais
     {
         private string adresse_mail;
         private DateTime date_frais;
-        private int id_motif;
+        private Int64 id_motif;
         private string trajet;
-        private int km;
-        private float cout_peage;
-        private float cout_repas;
-        private float cout_hebergement;
+        private Int64 km;
+        private Decimal cout_peage;
+        private Decimal cout_repas;
+        private Decimal cout_hebergement;
         private bool km_valide;
         private bool peage_valide;
         private bool repas_valide;
         private bool hebergement_valide;
-        private float total;
+        private Decimal total;
 
-        public lignes_frais(string adresse_mail, DateTime date_frais, int id_motif, string trajet, int km, float cout_peage, float cout_repas, float cout_hebergement, bool km_valide, bool peage_valide, bool repas_valide, bool hebergement_valide, float total)
+        public lignes_frais(string adresse_mail, DateTime date_frais, Int64 id_motif, string trajet, Int64 km, Decimal cout_peage, Decimal cout_repas, Decimal cout_hebergement, bool km_valide, bool peage_valide, bool repas_valide, bool hebergement_valide, Decimal total)
         {
             this.adresse_mail = adresse_mail;
             this.date_frais = date_frais;
@@ -45,16 +45,16 @@ namespace FREDI_TRESORIER.Classe
         }
         public string Adresse_mail { get => adresse_mail; set => adresse_mail = value; }
         public DateTime Date_frais { get => date_frais; set => date_frais = value; }
-        public int Id_motif { get => id_motif; set => id_motif = value; }
+        public Int64 Id_motif { get => id_motif; set => id_motif = value; }
         public string Trajet { get => trajet; set => trajet = value; }
-        public int Km { get => km; set => km = value; }
-        public float Cout_peage { get => cout_peage; set => cout_peage = value; }
-        public float Cout_repas { get => cout_repas; set => cout_repas = value; }
-        public float Cout_hebergement { get => cout_hebergement; set => cout_hebergement = value; }
+        public Int64 Km { get => km; set => km = value; }
+        public Decimal Cout_peage { get => cout_peage; set => cout_peage = value; }
+        public Decimal Cout_repas { get => cout_repas; set => cout_repas = value; }
+        public Decimal Cout_hebergement { get => cout_hebergement; set => cout_hebergement = value; }
         public bool Km_valide { get => km_valide; set => km_valide = value; }
         public bool Peage_valide { get => peage_valide; set => peage_valide = value; }
         public bool Repas_valide { get => repas_valide; set => repas_valide = value; }
         public bool Hebergement_valide { get => hebergement_valide; set => hebergement_valide = value; }
-        public float Total { get => total; set => total = value; }
+        public Decimal Total { get => total; set => total = value; }
     }
 }
