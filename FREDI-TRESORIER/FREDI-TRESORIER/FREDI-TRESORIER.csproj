@@ -54,43 +54,50 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Connexion.cs" />
-    <Compile Include="Form_accueil.cs">
+    <Compile Include="BDD\Connexion.cs" />
+    <Compile Include="Classe\Adherent.cs" />
+    <Compile Include="Classe\Club.cs" />
+    <Compile Include="Classe\demandeurs.cs" />
+    <Compile Include="Classe\lien.cs" />
+    <Compile Include="Classe\lignes_frais.cs" />
+    <Compile Include="Classe\ligue.cs" />
+    <Compile Include="Classe\motifs.cs" />
+    <Compile Include="Formulaire\Form_accueil.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form_accueil.Designer.cs">
+    <Compile Include="Formulaire\Form_accueil.Designer.cs">
       <DependentUpon>Form_accueil.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form_log.cs">
+    <Compile Include="Formulaire\Form_log.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form_log.Designer.cs">
+    <Compile Include="Formulaire\Form_log.Designer.cs">
       <DependentUpon>Form_log.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form_modif.cs">
+    <Compile Include="Formulaire\Form_modif.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form_modif.Designer.cs">
+    <Compile Include="Formulaire\Form_modif.Designer.cs">
       <DependentUpon>Form_modif.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form_Valider.cs">
+    <Compile Include="Formulaire\Form_Valider.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form_Valider.Designer.cs">
+    <Compile Include="Formulaire\Form_Valider.Designer.cs">
       <DependentUpon>Form_Valider.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form_accueil.resx">
+    <EmbeddedResource Include="Formulaire\Form_accueil.resx">
       <DependentUpon>Form_accueil.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form_log.resx">
+    <EmbeddedResource Include="Formulaire\Form_log.resx">
       <DependentUpon>Form_log.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form_modif.resx">
+    <EmbeddedResource Include="Formulaire\Form_modif.resx">
       <DependentUpon>Form_modif.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form_Valider.resx">
+    <EmbeddedResource Include="Formulaire\Form_Valider.resx">
       <DependentUpon>Form_Valider.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">

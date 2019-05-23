@@ -16,7 +16,7 @@ namespace FREDI_TRESORIER
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form_accueil());
+            Application.Run(new Form_log());
         }
     }
 }

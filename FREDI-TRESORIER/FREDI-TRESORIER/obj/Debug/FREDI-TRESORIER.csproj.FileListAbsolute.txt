@@ -15,3 +15,17 @@ C:\Users\Utilisateur\source\repos\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FRED
 C:\Users\Utilisateur\source\repos\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI_TRESORIER.Form_modif.resources
 C:\Users\Utilisateur\source\repos\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI_TRESORIER.Form_Valider.resources
 C:\Users\Utilisateur\source\repos\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI-TRESORIER.csproj.CopyComplete
+C:\Users\SISR-SLAM\Documents\Tresorier-master\FREDI-TRESORIER\FREDI-TRESORIER\bin\Debug\FREDI-TRESORIER.exe.config
+C:\Users\SISR-SLAM\Documents\Tresorier-master\FREDI-TRESORIER\FREDI-TRESORIER\bin\Debug\FREDI-TRESORIER.exe
+C:\Users\SISR-SLAM\Documents\Tresorier-master\FREDI-TRESORIER\FREDI-TRESORIER\bin\Debug\FREDI-TRESORIER.pdb
+C:\Users\SISR-SLAM\Documents\Tresorier-master\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI-TRESORIER.csprojAssemblyReference.cache
+C:\Users\SISR-SLAM\Documents\Tresorier-master\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI_TRESORIER.Form_accueil.resources
+C:\Users\SISR-SLAM\Documents\Tresorier-master\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI_TRESORIER.Form_log.resources
+C:\Users\SISR-SLAM\Documents\Tresorier-master\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI_TRESORIER.Form_modif.resources
+C:\Users\SISR-SLAM\Documents\Tresorier-master\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI_TRESORIER.Form_Valider.resources
+C:\Users\SISR-SLAM\Documents\Tresorier-master\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI_TRESORIER.Properties.Resources.resources
+C:\Users\SISR-SLAM\Documents\Tresorier-master\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI-TRESORIER.csproj.GenerateResource.cache
+C:\Users\SISR-SLAM\Documents\Tresorier-master\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI-TRESORIER.csproj.CoreCompileInputs.cache
+C:\Users\SISR-SLAM\Documents\Tresorier-master\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI-TRESORIER.csproj.CopyComplete
+C:\Users\SISR-SLAM\Documents\Tresorier-master\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI-TRESORIER.exe
+C:\Users\SISR-SLAM\Documents\Tresorier-master\FREDI-TRESORIER\FREDI-TRESORIER\obj\Debug\FREDI-TRESORIER.pdb
